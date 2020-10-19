@@ -1,4 +1,4 @@
-#Team anti-corona: Giomayra, Aimal, Selin, Dimitri 
+# Team anti-corona: Giomayra, Aimal, Selin, Dimitri 
 
 ## How to ask for help? 
 
@@ -18,9 +18,10 @@
     * my expected output didn't work, why? 
     * share the process of steps taken to arrive at "error message". 
     * researched "error" on SO, online documentation, but no relevant answer. 
-    * other tips when asking colleagues: use relevant syntax, terminology, github repo link
+    * other tips when asking colleagues: use relevant syntax, terminology, github repo link.
 
 ## 3. Conclusion 
-    * asking the question is often harder than giving the answer. 
-    * tips for giving good answers: be a good listener, re-read/ the question, give examples of similar problems, point in right direction
-    
+* Asking the question is often harder than giving the answer. 
+* Tips for giving good answers: be a good listener, re-read/ the question, give examples of similar problems, point in right direction.
+      
+   
